@@ -1,0 +1,29 @@
+h1{text-align: center;}
+	#blank1{
+		border-style:solid;
+		border-width:3px;
+		border-color:rgb(255,0,0);
+		width:900px;
+		height:600px;
+		margin:100px auto 100px auto;
+	}
+#blank2{text-align:center;
+		border-style:solid;
+		border-width:3px;
+		border-color:rgb(255,0,0);
+		width:700px;
+		height:400px;
+		margin:100px auto 100px auto ;
+		padding:200px auto 200px auto ;
+	}
+	p { height: 350px;font-size: 24pt;
+		font-family: ‘cwTeXFangSong’, serif;
+		display:flex;
+		align-items:center;
+		justify-content: center;
+	}
+	#pic{
+		vertical-align:text-bottom;
+	}
+
+	
