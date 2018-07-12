@@ -1,0 +1,17 @@
+
+div { 
+	border-width: 1px ;
+	border:2px;
+	border-style: solid;
+	border-color:rgb(0,0,0);
+	padding:3px;
+	text-align: center;
+	margin: 10px;
+	float: left;
+ }
+ strong, em{ color:rgb(255,0,0);
+font-family: ‘cwTeXFangSong’, serif;
+ }
+ *{color:rgb(150,200,250); 
+  }
+  h1 {color: black}
